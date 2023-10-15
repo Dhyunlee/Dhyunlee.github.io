@@ -112,7 +112,8 @@ author:
   email            : "dh1120.lee@gmail.com"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      # icon: "fas fa-fw fa-envelope-square"
+      icon: "fab fa-fw fa-gmail"
       # url: "mailto:your.name@email.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
